@@ -12,3 +12,7 @@ Ok, now I've learnt:
 3. I can save changes by clicking on "Commit Changes" button below.
 
 But, how can I close issues? I don't know yet. Let's go find out.
+
+Ok. Now I'm in the branch "readme-edits.
+
+I found how I can colse issues. Let's continue to see what's next.
